@@ -80,7 +80,7 @@ path/to/pretrained/model \
 Convert result to submission format
 
 ```
-pyton convert_result.py \
+python convert_result.py \
 --in-path path/to/input/pkl/file \
 --out-path path/to/output/json/file
 ```
